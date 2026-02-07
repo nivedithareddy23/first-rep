@@ -1,4 +1,4 @@
 # first-rep
 My First repository
 <br>
-Author-Niveditha
+Author-Niveditha(Neethu Reddy)
